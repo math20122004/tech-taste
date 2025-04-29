@@ -28,6 +28,3 @@
 
 > [!IMPORTANT]
 > This is an educational application.
-
-> Project developed under the guidance of Alura, as part of the 2025 Mobile Immersion Program.
-
