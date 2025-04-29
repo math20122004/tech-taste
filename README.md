@@ -29,5 +29,5 @@
 > [!IMPORTANT]
 > This is an educational application.
 
-> Projeto realizado com instrução da instituição Alura, no programa de imersão mobile 2025.
+> Project developed under the guidance of Alura, as part of the 2025 Mobile Immersion Program.
 
